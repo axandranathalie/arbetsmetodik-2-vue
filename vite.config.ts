@@ -17,5 +17,5 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     },
   },
-  base: '/arbetsmetodik-2-vue/',  // Lägg till den här raden med ditt GitHub Pages repo namn
+  base: '/todo-list/',  // Lägg till den här raden med ditt GitHub Pages repo namn
 })
